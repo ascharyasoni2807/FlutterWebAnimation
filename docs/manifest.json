@@ -3,6 +3,7 @@
     "short_name": "web",
     "start_url": ".",
     "display": "standalone",
+    "homepage" : "https://ascharyasoni2807.github.io/FlutterWebAnimation/",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
