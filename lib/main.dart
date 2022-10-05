@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:web/homePage.dart';
+import './strings.dart';
 
 void main() {
   runApp(MyApp());
@@ -10,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: MyHomePage(title: 'ASCHARYA PAGE'),
+      home: MyHomePage(title: Strings.homepageName),
     );
   }
 }
